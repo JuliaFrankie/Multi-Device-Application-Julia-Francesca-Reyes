@@ -85,7 +85,7 @@
     max-width: 290px !important;
   }
   .cameras li img {
-    max-width: 40px;
+    max-width: 25px !important;
   }
   .circle {
     -webkit-clip-path: circle(400px at center bottom) !important;
@@ -186,7 +186,7 @@
     max-width: 300px !important;
   }
   .cameras li img {
-    max-width: 40px;
+    max-width: 40px !important;
   }
   .circle {
     -webkit-clip-path: circle(400px at center bottom) !important;
@@ -286,7 +286,7 @@
     max-width: 300px;
   }
   .cameras li img {
-    max-width: 40px;
+    max-width: 60px;
   }
   .circle {
     -webkit-clip-path: circle(400px at center bottom) !important;
@@ -428,7 +428,7 @@ header ul li a {
 }
 
 .content .imgBox img {
-  max-width: 500px;
+  max-width: 600px;
 }
 
 .cameras {
@@ -457,7 +457,7 @@ header ul li a {
 }
 
 .cameras li img {
-  max-width: 60px;
+  max-width: 80px;
 }
 
 .socmed {
